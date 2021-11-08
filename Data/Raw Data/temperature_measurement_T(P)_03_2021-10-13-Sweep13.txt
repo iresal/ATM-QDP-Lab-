@@ -1,0 +1,6 @@
+# Start time is 11:00:08
+# 
+# Heater-output, Time, TempMXC, TempProbe
+# % ,s, K ,K 
+# Comments: n.a.Current Array =[ 166.59894457  333.19788915  684.65319688 1369.30639376 2738.61278753
+#  5477.22557505]

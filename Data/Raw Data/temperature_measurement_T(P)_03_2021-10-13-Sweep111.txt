@@ -1,0 +1,5 @@
+# Start time is 12:34:11
+# 
+# Heater-output, Time, TempMXC, TempProbe
+# % ,s, K ,K 
+# Comments: Exercise 3, step alike

@@ -1,8 +1,6 @@
 """
 QDP Lab data
 
-@autor: Israel Rebolledo (israels@chalmers.se)
-
 """
 import os
 import numpy as np
@@ -82,8 +80,8 @@ if __name__ == "__main__":
 
     init_fig_params()
     ## Path of the files 
-    data_path = 'C:\\Users\\israels\\OneDrive - Chalmers tekniska hogskola\\Courses\\Technical Courses\\PhD Courses\\AMT\\QDP Lab\\03_Rasmus_Isra\\03_Rasmus_Isra\\'
-    figures_path = 'C:\\Users\\israels\\OneDrive - Chalmers tekniska hogskola\\Courses\\Technical Courses\\PhD Courses\\AMT\\QDP Lab\\Figures\\'
+    data_path = '..Data\\'
+    figures_path = '...\\Figures\\'
     
     file_name = 'datafile2021-10-13freq_sweep_4.txt'
     freq_swept (data_path+file_name)

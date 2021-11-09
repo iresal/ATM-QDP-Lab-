@@ -4,7 +4,7 @@ This repository contains the data recorded in the Quantum Device Physics within 
 The files are stored in the following folders: 
 
 - Data: 
-    a)  time_sweeps.mat - Data corresponding to the decive cooling measurements.
+    a)  time_sweeps.mat - Data corresponding to the device cooling measurements.
     b)  datafile2021-10-13freq_sweep_4.txt  - Measurement of the freqency characterization of the lock-in carrier using a 10kOhm resistor \n
     c)  pinchoffdata.mat - Data corresponding to the device characterizations. 
     - Raw Data. Folder with all text files recorded during the lab session. The MAT files contained the data used for the post-processing of the measurements 
